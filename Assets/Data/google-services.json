@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496629475808",
+    "firebase_url": "https://umulycase-aa953-default-rtdb.firebaseio.com",
+    "project_id": "umulycase-aa953",
+    "storage_bucket": "umulycase-aa953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496629475808:android:2a93b3886a6bcf30a3a385",
+        "android_client_info": {
+          "package_name": "com.google.firebase.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496629475808-u02jkusv4g500104009pubm8s85h7sc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_B-zvPBJoZd3femSQYc9iAKpXhjEg-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496629475808-u02jkusv4g500104009pubm8s85h7sc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
